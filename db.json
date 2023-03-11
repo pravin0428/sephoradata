@@ -1,23 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "projectRow11": [
     {
+      "id": "seprow1",
       "img": "https://cdn09.nnnow.com/web-images/medium/styles/NAG35MWAZB5/1603956012732/1.jpg",
       "tag": "BESTSELLER",
       "brand": "OLAPLEX",
@@ -25,6 +9,7 @@
       "price": "2,950"
     },
     {
+      "id": "seprow2",
       "img": "https://cdn10.nnnow.com/web-images/medium/styles/3UEG2MOM9WJ/1567658710108/1.jpg",
       "tag": "OFFER",
       "brand": "HUDA BEAUTY",
@@ -32,6 +17,7 @@
       "price": "5,375"
     },
     {
+      "id": "seprow3",
       "img": "https://cdn00.nnnow.com/web-images/medium/styles/RB2GD0T4W14/1603859985717/1.jpg",
       "tag": "BESTSELLER",
       "brand": "OLAPLEX",
@@ -39,6 +25,7 @@
       "price": "1,550 - 2,950"
     },
     {
+      "id": "seprow4",
       "img": "https://cdn15.nnnow.com/web-images/medium/styles/CNQMZZSQ362/1631790357674/1.jpg",
       "tag": "OFFER",
       "brand": "HUDA BEAUTY",
@@ -46,6 +33,7 @@
       "price": "3,300"
     },
     {
+      "id": "seprow5",
       "img": "https://cdn16.nnnow.com/web-images/medium/styles/62OALNJFPOD/1631615574163/1.jpg",
       "tag": "OFFER",
       "brand": "HUDA BEAUTY",
@@ -53,6 +41,7 @@
       "price": "2,400"
     },
     {
+      "id": "seprow6",
       "img": "https://cdn15.nnnow.com/web-images/medium/styles/KHFROVPTCI2/1599046960541/1.jpg",
       "tag": "BESTSELLER",
       "brand": "HUDA BEAUTY",
@@ -571,6 +560,56 @@
       "targetUrl": "/product/stay-all-day-waterproof-liquid-eye-liner-P253818",
       "_id": 1678276880696,
       "count": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "pravin",
+      "email": "ppl@gmail.com",
+      "password": "123",
+      "id": 1678541673906
+    },
+    {
+      "name": "fdsaf",
+      "email": "admin@admin.com",
+      "password": "32323",
+      "id": 1678542861873
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "0000",
+      "id": 1678543737712
+    },
+    {
+      "name": "z",
+      "email": "z@gmail.com",
+      "password": "11111",
+      "id": 1678543989958
+    },
+    {
+      "name": "fdsf",
+      "email": "ppl@gmail.com",
+      "password": "123",
+      "id": 1678547882350
+    },
+    {
+      "name": "feare",
+      "email": "ds@gmail.com",
+      "password": "123",
+      "id": 1678548039709
+    },
+    {
+      "name": "Pravin Mohite",
+      "email": "mohite461998@gmail.com",
+      "password": "4444",
+      "id": 1678549726577
+    },
+    {
+      "name": "a",
+      "email": "abc@gmail.com",
+      "password": "aa",
+      "id": 1678551164938
     }
   ]
 }
