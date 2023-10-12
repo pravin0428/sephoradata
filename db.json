@@ -793,6 +793,25 @@
       "price":  10 ,
       "sponsorship": null
     }
-  ]
-  
+  ],
+
+   "sale" : [
+    {
+      "id" : "seprow2",
+      "img" : "https://www.sephora.com/contentimages/brands/mbm/surrealskinconcealer/2023-8-16-makeup-by-mario-surrealskin-awakening-concealer-site-desktop-mobile-category-content-tile-en-us-can.jpg?imwidth=500"
+    },
+    {
+      "id" : "seprow2",
+      "img" : "https://www.sephora.com/contentimages/2023-09-07-sept-eye-makeup-site-desktop-mobile-category-content-tile-general-us--can.jpg?imwidth=500"
+    },
+    {
+      "id" : "seprow3",
+      "img" : "https://www.sephora.com/contentimages/2023-09-07-sept-eye-makeup-site-desktop-mobile-category-content-tile-community-us-can.jpg?imwidth=500"
+    }
+    ,
+    {
+      "id" : "seprow4",
+      "img" : "https://www.sephora.com/contentimages/categorybanners/2023-feb-contour-site-desktop-mobile-category-content-tile-us-can-release.png?imwidth=500"
+    }
+   ]
 }
