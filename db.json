@@ -612,7 +612,7 @@
       "id": 1678551164938
     }
   ],
-  "skinCare" : [
+  "skinCare": [
     {
       "id": 1,
       "heroImage": "https://www.sephora.com/productimages/sku/s2282069-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
@@ -621,7 +621,8 @@
       "name": "Clean Face Mask",
       "ratings": "456",
       "price": 50,
-      "sponsorship": null
+      "sponsorship": null,
+      "cat": "Face Mask"
     },
     {
       "id": 2,
@@ -630,8 +631,9 @@
       "brandName": "The Ordinary",
       "name": "Niacinamide 10% + Zinc 1% Oil Control Serum",
       "ratings": "6.5K",
-      "price":  6 ,
-      "sponsorship": null
+      "price": 6,
+      "sponsorship": null,
+      "cat": "Serum"
     },
     {
       "id": 3,
@@ -640,8 +642,9 @@
       "brandName": "TULA Skincare",
       "name": "Glow + Get It Cooling & Brightening Eye Balm",
       "ratings": "370",
-      "price":  38 ,
-      "sponsorship": "Sponsored"
+      "price": 38,
+      "sponsorship": "Sponsored",
+      "cat": "Eye Balm"
     },
     {
       "id": 4,
@@ -650,8 +653,9 @@
       "brandName": "Summer Fridays",
       "name": "Lip Butter Balm for Hydration & Shine",
       "ratings": "2.9K",
-      "price":  24 ,
-      "sponsorship": null
+      "price": 24,
+      "sponsorship": null,
+      "cat": "Lip Balm"
     },
     {
       "id": 5,
@@ -660,8 +664,9 @@
       "brandName": "The Ordinary",
       "name": "Hyaluronic Acid 2% + B5 Hydrating Serum",
       "ratings": "4.7K",
-      "price":   8 ,
-      "sponsorship": null
+      "price": 8,
+      "sponsorship": null,
+      "cat": "Serum"
     },
     {
       "id": 6,
@@ -671,7 +676,8 @@
       "name": "Eye Recharge + Replenish Pro-Ferm™ Overnight Eye Cream with Bakuchiol and Peptides",
       "ratings": "135",
       "price": 56,
-      "sponsorship": "Sponsored"
+      "sponsorship": "Sponsored",
+      "cat": "Eye Cream"
     },
     {
       "id": 7,
@@ -681,7 +687,8 @@
       "name": "Clean Charcoal Nose Strip",
       "ratings": "288",
       "price": 3,
-      "sponsorship": null
+      "sponsorship": null,
+      "cat": "Nose Strip"
     },
     {
       "id": 8,
@@ -691,7 +698,8 @@
       "name": "Cleansing + Exfoliating Wipes",
       "ratings": "393",
       "price": 3,
-      "sponsorship": null
+      "sponsorship": null,
+      "cat": "Wipes"
     },
     {
       "id": 9,
@@ -701,7 +709,8 @@
       "name": "Rose Glow + Get It Cooling & Brightening Eye Balm",
       "ratings": "403",
       "price": 38,
-      "sponsorship": "Sponsored"
+      "sponsorship": "Sponsored",
+      "cat": "Eye Balm"
     },
     {
       "id": 10,
@@ -711,7 +720,8 @@
       "name": "Vegan Hydrating Lip Balm",
       "ratings": "360",
       "price": 12,
-      "sponsorship": null
+      "sponsorship": null,
+      "cat": "Lip Balm"
     },
     {
       "id": 11,
@@ -721,7 +731,8 @@
       "name": "Vitamin Eye Masks",
       "ratings": "71",
       "price": 4,
-      "sponsorship": null
+      "sponsorship": null,
+      "cat": "Eye Masks"
     },
     {
       "id": 12,
@@ -731,7 +742,8 @@
       "name": "Watermelon Glow Niacinamide Dew Drops Serum",
       "ratings": "3.2K",
       "price": 20,
-      "sponsorship": null
+      "sponsorship": null,
+      "cat": "Serum"
     },
     {
       "id": 13,
@@ -739,61 +751,67 @@
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Organic Cotton Swabs",
-      "ratings": "101",
-      "price": "$3.00",
-      "sponsorship": null
-    },
-    {
-      "id": 14,
-      "heroImage": "https://www.sephora.com/productimages/sku/s2592657-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
-      "type": "Quicklook",
-      "brandName": "SEPHORA COLLECTION",
-      "name": "Prebiotic Smoothie Mask",
-      "ratings": "45",
-      "price": 5,
-      "sponsorship": null
-    },
-    {
-      "id": 15,
-      "heroImage": "https://www.sephora.com/productimages/sku/s2348431-main-zoom.jpg?pb=clean-planet-positive-badge-2021&imwidth=175",
-      "type": "Quicklook",
-      "brandName": "Glow Recipe",
-      "name": "Watermelon Glow PHA + BHA Pore-Tight Toner",
-      "ratings": "4.5K",
-      "price": 15,
-      "sponsorship": null
-    },
-    {
-      "id": 16,
-      "heroImage": "https://www.sephora.com/productimages/sku/s2566537-main-zoom.jpg?imwidth=175",
-      "type": "Quicklook",
-      "brandName": "TULA Skincare",
-      "name": "Bright Start Vitamin C Antioxidant Brightening Moisturizer",
-      "ratings": "260",
-      "price": 58,
-      "sponsorship": "Sponsored"
-    },
-    {
-      "id": 17,
-      "heroImage": "https://www.sephora.com/productimages/sku/s2283034-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
-      "type": "Quicklook",
-      "brandName": "SEPHORA COLLECTION",
-      "name": "Clean Eye Mask",
-      "ratings": "448",
-      "price": 4 ,
-      "sponsorship": null
-    },
-    {
-      "id": 18,
-      "heroImage": "https://www.sephora.com/productimages/sku/s2556744-main-zoom.jpg?pb=allure-2022-bestofbeauty-badge&imwidth=175",
-      "type": "Quicklook",
-      "brandName": "Touchland",
-      "name": "Power Mist Hydrating Hand Sanitizer",
-      "ratings": "432",
-      "price":  10 ,
-      "sponsorship": null
-    }
-  ],
+      "ratings":"101",
+      "price": 3,
+      "sponsorship": null,
+      "cat": "Cotton Swabs"
+       },
+      {
+        "id": 14,
+        "heroImage": "https://www.sephora.com/productimages/sku/s2592657-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+        "type": "Quicklook",
+        "brandName": "SEPHORA COLLECTION",
+        "name": "Prebiotic Smoothie Mask",
+        "ratings": "45",
+        "price": 5,
+        "sponsorship": null,
+        "cat": "Face Mask"
+      },
+      {
+        "id": 15,
+        "heroImage": "https://www.sephora.com/productimages/sku/s2348431-main-zoom.jpg?pb=clean-planet-positive-badge-2021&imwidth=175",
+        "type": "Quicklook",
+        "brandName": "Glow Recipe",
+        "name": "Watermelon Glow PHA + BHA Pore-Tight Toner",
+        "ratings": "4.5K",
+        "price": 15,
+        "sponsorship": null,
+        "cat": "Toner"
+      },
+      {
+        "id": 16,
+        "heroImage": "https://www.sephora.com/productimages/sku/s2566537-main-zoom.jpg?imwidth=175",
+        "type": "Quicklook",
+        "brandName": "TULA Skincare",
+        "name": "Bright Start Vitamin C Antioxidant Brightening Moisturizer",
+        "ratings": "260",
+        "price": 58,
+        "sponsorship": "Sponsored",
+        "cat": "Moisturizer"
+      },
+      {
+        "id": 17,
+        "heroImage": "https://www.sephora.com/productimages/sku/s2283034-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+        "type": "Quicklook",
+        "brandName": "SEPHORA COLLECTION",
+        "name": "Clean Eye Mask",
+        "ratings": "448",
+        "price": 4,
+        "sponsorship": null,
+        "cat": "Eye Mask"
+      },
+      {
+        "id": 18,
+        "heroImage": "https://www.sephora.com/productimages/sku/s2556744-main-zoom.jpg?pb=allure-2022-bestofbeauty-badge&imwidth=175",
+        "type": "Quicklook",
+        "brandName": "Touchland",
+        "name": "Power Mist Hydrating Hand Sanitizer",
+        "ratings": "432",
+        "price": 10,
+        "sponsorship": null,
+        "cat": "Hand Sanitizer"
+      }
+    ],
 
    "sale" : [
     {
