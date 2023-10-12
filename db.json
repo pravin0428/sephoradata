@@ -615,7 +615,7 @@
   "skinCare" : [
     {
       "id": 1,
-      "image450": "https://www.sephora.com/productimages/sku/s2282069-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2282069-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Clean Face Mask",
@@ -625,7 +625,7 @@
     },
     {
       "id": 2,
-      "image450": "https://www.sephora.com/productimages/sku/s2031391-main-zoom.jpg?imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2031391-main-zoom.jpg?imwidth=175",
       "type": "Quicklook",
       "brandName": "The Ordinary",
       "name": "Niacinamide 10% + Zinc 1% Oil Control Serum",
@@ -635,7 +635,7 @@
     },
     {
       "id": 3,
-      "image450": "https://www.sephora.com/productimages/sku/s2500676-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2500676-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
       "type": "Quicklook",
       "brandName": "TULA Skincare",
       "name": "Glow + Get It Cooling & Brightening Eye Balm",
@@ -645,7 +645,7 @@
     },
     {
       "id": 4,
-      "image450": "https://www.sephora.com/productimages/sku/s2495497-main-zoom.jpg?pb=allure-2023-bestofbeauty-badge&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2495497-main-zoom.jpg?pb=allure-2023-bestofbeauty-badge&imwidth=175",
       "type": "Quicklook",
       "brandName": "Summer Fridays",
       "name": "Lip Butter Balm for Hydration & Shine",
@@ -655,7 +655,7 @@
     },
     {
       "id": 5,
-      "image450": "https://www.sephora.com/productimages/sku/s2031375-main-zoom.jpg?pb=2020-03-allure-best-2019&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2031375-main-zoom.jpg?pb=2020-03-allure-best-2019&imwidth=175",
       "type": "Quicklook",
       "brandName": "The Ordinary",
       "name": "Hyaluronic Acid 2% + B5 Hydrating Serum",
@@ -665,7 +665,7 @@
     },
     {
       "id": 6,
-      "image450": "https://www.sephora.com/productimages/sku/s2566545-main-zoom.jpg?imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2566545-main-zoom.jpg?imwidth=175",
       "type": "Quicklook",
       "brandName": "TULA Skincare",
       "name": "Eye Recharge + Replenish Pro-Ferm™ Overnight Eye Cream with Bakuchiol and Peptides",
@@ -675,7 +675,7 @@
     },
     {
       "id": 7,
-      "image450": "https://www.sephora.com/productimages/sku/s2283109-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2283109-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Clean Charcoal Nose Strip",
@@ -685,7 +685,7 @@
     },
     {
       "id": 8,
-      "image450": "https://www.sephora.com/productimages/sku/s2558542-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2558542-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Cleansing + Exfoliating Wipes",
@@ -695,7 +695,7 @@
     },
     {
       "id": 9,
-      "image450": "https://www.sephora.com/productimages/sku/s2500817-main-zoom.jpg?imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2500817-main-zoom.jpg?imwidth=175",
       "type": "Quicklook",
       "brandName": "TULA Skincare",
       "name": "Rose Glow + Get It Cooling & Brightening Eye Balm",
@@ -705,7 +705,7 @@
     },
     {
       "id": 10,
-      "image450": "https://www.sephora.com/productimages/sku/s2387215-main-zoom.jpg?pb=2023-03-sephora-value-2023&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2387215-main-zoom.jpg?pb=2023-03-sephora-value-2023&imwidth=175",
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Vegan Hydrating Lip Balm",
@@ -715,7 +715,7 @@
     },
     {
       "id": 11,
-      "image450": "https://www.sephora.com/productimages/sku/s2495539-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2495539-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Vitamin Eye Masks",
@@ -725,7 +725,7 @@
     },
     {
       "id": 12,
-      "image450": "https://www.sephora.com/productimages/sku/s2404846-main-zoom.jpg?pb=clean-planet-positive-badge-2021&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2404846-main-zoom.jpg?pb=clean-planet-positive-badge-2021&imwidth=175",
       "type": "Quicklook",
       "brandName": "Glow Recipe",
       "name": "Watermelon Glow Niacinamide Dew Drops Serum",
@@ -735,7 +735,7 @@
     },
     {
       "id": 13,
-      "image450": "https://www.sephora.com/productimages/sku/s2300218-main-zoom.jpg?pb=clean-planet-positive-badge-2021&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2300218-main-zoom.jpg?pb=clean-planet-positive-badge-2021&imwidth=175",
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Organic Cotton Swabs",
@@ -745,7 +745,7 @@
     },
     {
       "id": 14,
-      "image450": "https://www.sephora.com/productimages/sku/s2592657-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2592657-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Prebiotic Smoothie Mask",
@@ -755,7 +755,7 @@
     },
     {
       "id": 15,
-      "image450": "https://www.sephora.com/productimages/sku/s2348431-main-zoom.jpg?pb=clean-planet-positive-badge-2021&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2348431-main-zoom.jpg?pb=clean-planet-positive-badge-2021&imwidth=175",
       "type": "Quicklook",
       "brandName": "Glow Recipe",
       "name": "Watermelon Glow PHA + BHA Pore-Tight Toner",
@@ -765,7 +765,7 @@
     },
     {
       "id": 16,
-      "image450": "https://www.sephora.com/productimages/sku/s2566537-main-zoom.jpg?imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2566537-main-zoom.jpg?imwidth=175",
       "type": "Quicklook",
       "brandName": "TULA Skincare",
       "name": "Bright Start Vitamin C Antioxidant Brightening Moisturizer",
@@ -775,7 +775,7 @@
     },
     {
       "id": 17,
-      "image450": "https://www.sephora.com/productimages/sku/s2283034-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2283034-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=175",
       "type": "Quicklook",
       "brandName": "SEPHORA COLLECTION",
       "name": "Clean Eye Mask",
@@ -785,7 +785,7 @@
     },
     {
       "id": 18,
-      "image450": "https://www.sephora.com/productimages/sku/s2556744-main-zoom.jpg?pb=allure-2022-bestofbeauty-badge&imwidth=175",
+      "heroImage": "https://www.sephora.com/productimages/sku/s2556744-main-zoom.jpg?pb=allure-2022-bestofbeauty-badge&imwidth=175",
       "type": "Quicklook",
       "brandName": "Touchland",
       "name": "Power Mist Hydrating Hand Sanitizer",
